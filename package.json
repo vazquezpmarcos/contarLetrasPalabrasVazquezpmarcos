@@ -8,8 +8,5 @@
   },
   "author": "vazquezpmarcos",
   "license": "ISC",
-  "url": "https://github.com/vazquezpmarcos/contarLetrasPalabrasVazquezpmarcos.git",
-  "dependencies": {
-    "contarletraspalabrasvazquezpmarcos": "^1.0.1"
-  }
+  "url": "https://github.com/vazquezpmarcos/contarLetrasPalabrasVazquezpmarcos.git"
 }
